@@ -3,7 +3,7 @@
   "name": "Time Cost Calculator",
   "version": "1.0",
   "description": "Calculate the time cost of products based on user's hourly wage.",
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["storage", "activeTab"],
   "background": {
     "service_worker": "js/background.js"
   },
