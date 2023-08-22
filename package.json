@@ -1,0 +1,29 @@
+{
+  "name": "timeprice",
+  "version": "1.0.0",
+  "description": "converts all pricing on a webpage to the cost of time on a persons life based on their hourly wage.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBromsson/timeprice.git"
+  },
+  "keywords": [
+    "shopping",
+    "chrome-extension",
+    "price-comparison",
+    "hourly-wage",
+    "online-shopping",
+    "budgeting",
+    "time-value",
+    "product-analysis"
+  ],
+  "author": "Marvin Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBromsson/timeprice/issues"
+  },
+  "homepage": "https://github.com/xBromsson/timeprice#readme"
+}
